@@ -1,24 +1,29 @@
-**If you feel like you may harm yourself, please, please call a crisis hotline. They're free, confidential, and 24/7:**
+**Si tu as des idée noires et que tu penses passer à l'acte, je t'en prie, appelle un service d'écoute. Ils sont gratuits, confidentiels, et disponibles :  24h/24 et 7j/7**
 
-**US:** [National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org) – 1-800-273-8255    
-**US:** [The Trevor Project (for LGBTQ youth)](https://www.thetrevorproject.org) – 1-866-488-7386    
-**UK:** [Samaritans](https://www.samaritans.org) – 116 123    
-For all other countries, [see Wikipedia's list](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines).
+**France :** [Suicide Ecoute](https://www.suicide-ecoute.fr) – 01 45 39 40 00
+**France :** [SOS Amitié](https://www.sos-amitie.org) – 09 72 39 40 50
+**France :** [Liste du Ministère de la Santé](https://solidarites-sante.gouv.fr/prevention-en-sante/sante-mentale-et-psychiatrie/article/que-faire-et-a-qui-s-adresser-face-a-une-crise-suicidaire)
 
-For mental health advice from official sources, rather than a random internet person like me, check out these lists from the [Mental Health Foundation](https://www.mentalhealth.org.uk/your-mental-health/looking-after-your-mental-health) & [National Health Service](https://www.nhs.uk/conditions/stress-anxiety-depression/improve-mental-wellbeing/).
+**Suisse :** [Stop Suicide](http://www.stopsuicide.ch) – 022 320 55 67
+**Belgique :** [Centre de Prévention du Suicide](https://www.preventionsuicide.be/fr) – 0800 32 123
+**Québec :** [Centre de prévention du suicide au Québec](https://www.cpsquebec.ca/)
+
+Pour les autre pays, [voir la liste de Wikipédia](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines).
+
+Pour des conseils sur la santé mentale venant de sources officielles plutôt que d'une personne aléatoire du Net comme moi, regarde cette liste faite par [le Gouvernement du Québec](https://www.quebec.ca/sante/conseils-et-prevention/sante-mentale/maintenir-une-bonne-sante-mentale/).
 
 <div style="text-align:center">・・・</div>
 
-*This article is a mix of personal story, the science of mental health, and practical tips. It's a 22-minute read in full, but you can just skip to the practical tips:*
+*Cete article est un mélange d'histoire personnelle, de la science sur la santé mentale, et de conseils pratiques. Le temps de lecture en entier est de 22 minutes, mais tu peux te contenter de lire les conseils pratiques :*
 
-1. **[An Old Friend](#toc_0)** (story)
-2. **[Therapies I Tried](#toc_1)** (story + theory)
-3. **[The Purpose of Pain, the Function of Feelings](#toc_2)** (theory)
-4. **[Habits 101](#toc_3)** (theory + practical)
-5. **[9 Evidence-Based Mental Health Habits](#toc_4)** (💥**the actually useful part**💥)
-6. **[TL;DR](#toc_18)** (summary of everything above)
-7. **[Me & My Wolf](#toc_19)** (story)
-8. **[Extra Resources](#toc_20)** (practical)
+1. **[Un Vieil Ami](#toc_0)** (histoire)
+2. **[Les Thérapies que j'ai Essayé](#toc_1)** (histoire + théorie)
+3. **[Le But de la Douleur, la Fonction des Sentiments](#toc_2)** (théorie)
+4. **[Les Habitudes pour les Nuls](#toc_3)** (théorie + pratique)
+5. **[9 Habitudes de Santé Mentale Basées sur les Preuves](#toc_4)** (💥**la véritable partie utile**💥)
+6. **[TL;DR](#toc_18)** (résumé de tout ce qu'il y a au-dessus)
+7. **[Moi et Mon Loup](#toc_19)** (histoire)
+8. **[Ressources en Plus](#toc_20)** (pratique)
 
 ---
 
@@ -27,18 +32,18 @@ For mental health advice from official sources, rather than a random internet pe
 I remember my first panic attack. I was at the bus stop. I'd just moved to a new city, and the bus never showed up. So the little wolf in my brain said to me:
 
 > 🐺 We're in a new place, and we can't even figure out how busses here work?
-> 
+>
 > 🐺 That means we won't be able to make friends! Or get home safely! Or buy things we need to survive!
-> 
+>
 > 🐺 Wait, why is our heart pounding? Why can't we breathe?! Aren't heart attacks in our family medical history?!?! Oh my god is this it?!?!?!
-> 
+>
 > 🐺 AAAAAHHHHH
 
 In 4 mental steps, a no-show bus had me 100% *convinced* I was going to die.
 
 So, that's why I never trusted the saying, "trust your gut." Or, "your feelings are valid." Imagine this scene:
 
-> Friend, to you: I feel worthless. I feel like a burden to everyone. I feel that deep down I'm an irredeemably broken, evil person. 
+> Friend, to you: I feel worthless. I feel like a burden to everyone. I feel that deep down I'm an irredeemably broken, evil person.
 
 > You, to friend: Your feelings are valid! :D
 
@@ -108,11 +113,11 @@ However, you'd also want an alarm system to go off *before* harm is done. This a
 
 Harm to what? Your fundamental human needs:
 
-1. **Physical Needs** – survival, health, safety    
+1. **Physical Needs** – survival, health, safety
    (When threatened: 🐺 “We're in danger!”)
-2. **Social Needs** – friends, family, lovers    
+2. **Social Needs** – friends, family, lovers
    (When threatened: 🐺 “Nobody likes us!”)
-3. **"Becoming A Better Person" Needs** – learning, character growth, doing good for others   
+3. **"Becoming A Better Person" Needs** – learning, character growth, doing good for others
    (When threatened: 🐺 “We're a bad person!”)
 
 (This list of needs is <span style="text-decoration:line-through">something I pulled out my bum</span> a condensed version of [Maslow's hierarchy](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) + [Self-Determination Theory [pdf]](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf))
@@ -174,24 +179,24 @@ Well... yeah! Okay, dog clicker is optional. But, we have a word for when humans
 
 Here's a quick summary of the science of forming habits, [paraphrased from the British Journal of General Practice [pdf]](https://bjgp.org/content/bjgp/62/605/664.full.pdf):
 
-1. **Habit = When X, Then Y.**    
+1. **Habit = When X, Then Y.**
    X is the "cue", Y is the "routine". Example: "when I come out of the shower, then I will floss my teeth."
-   
-2. **To build a habit, have a consistent When.**    
-   Example: if you're trying to eat healthier, don't just say "I'll eat more fruits". Give yourself a *specific time and/or place,* like, "after I have lunch at home I will have a piece of fruit". (Also known in psychology as an [Implementation Intention. [pdf]](http://kops.uni-konstanz.de/bitstream/handle/123456789/10101/99Goll_ImpInt.pdf))
-   
-3. **To build a habit, have a simple Then.**    
-   Example: if you're new to meditation, *don't* start with "meditate for 30 minutes a day." Start with "meditate for 2 minutes a day." Once 2 minutes becomes habit, *then* you can increase it. 
-   
-4. **To *break* a habit, change the When or Then:**    
-   Example: to stop myself from procrastinating, I use apps to block tempting websites. (Odysseus tied himself to the mast to resist the sirens' song.)
-   
-5. **Track your progress.**    
-    Personally: for each day I successfully do my When→Then plan, I draw an ⭕ on a calendar. If I fail, I draw an ❌.
-    
-6. **Do NOT try building more than one habit at a time.**    
 
-7. **It takes 66 days (on average) for a habit to become automatic.**    
+2. **To build a habit, have a consistent When.**
+   Example: if you're trying to eat healthier, don't just say "I'll eat more fruits". Give yourself a *specific time and/or place,* like, "after I have lunch at home I will have a piece of fruit". (Also known in psychology as an [Implementation Intention. [pdf]](http://kops.uni-konstanz.de/bitstream/handle/123456789/10101/99Goll_ImpInt.pdf))
+
+3. **To build a habit, have a simple Then.**
+   Example: if you're new to meditation, *don't* start with "meditate for 30 minutes a day." Start with "meditate for 2 minutes a day." Once 2 minutes becomes habit, *then* you can increase it.
+
+4. **To *break* a habit, change the When or Then:**
+   Example: to stop myself from procrastinating, I use apps to block tempting websites. (Odysseus tied himself to the mast to resist the sirens' song.)
+
+5. **Track your progress.**
+    Personally: for each day I successfully do my When→Then plan, I draw an ⭕ on a calendar. If I fail, I draw an ❌.
+
+6. **Do NOT try building more than one habit at a time.**
+
+7. **It takes 66 days (on average) for a habit to become automatic.**
    Be patient! Mind-training takes time, but it's worth it.
 
 Hang on, my guard dog wants to say something:
@@ -280,7 +285,7 @@ High-quality social connections, not surprisingly, [reduces depression and anxie
 
 Some anecdote-not-data advice:
 
-1. Whenever *possible:* Real-Life Face-To-Face > Videochat > Phone Call > Text/Email. 
+1. Whenever *possible:* Real-Life Face-To-Face > Videochat > Phone Call > Text/Email.
 2. Meet with friends *outside* your usual context. Examples: meet a friend from work *outside* work, go with housemates *out* to a movie. Otherwise, you'll probably lose touch after leaving the job or house.
 3. Because everyone's a busy bee who lives in a rectangular beehive called a calendar, *regularly schedule friend-hangouts*. Make friendship a *habit*, for both of you!
 
@@ -330,9 +335,9 @@ I think we all can, too. You don't have to use Franklin's exact method. In fact,
 
 ・・・
 
-Know your wolf.   
-Physical needs.   
-Social needs.   
+Know your wolf.
+Physical needs.
+Social needs.
 Becoming a better person.
 
 What helps you meet *all* of these at the same time: **making fear your friend.** Building a healthier collaboration with your fear (know the wolf) will help you get better at protecting yourself (physical needs), be more vulnerable with trusted friends (social needs), and let you improve your moral character ("becoming a better person" needs).
@@ -348,13 +353,13 @@ Good point! Let's refresh the reader's memory with a summary:
 # TL;DR
 
 * **Do not fear fear itself.**
-* Pain is a protector. 
+* Pain is a protector.
 * Fear is a guard dog for your needs.
 * **All feelings are imperfect signals about met/unmet needs.**
 * Our fundamental human needs are: physical needs, social needs, "becoming a better person" needs.
 * **Healthy people don't "cope" with emotions, they *collaborate* with them. They use "negative" emotions as clues, constructive criticism to improve their lives.**
 * If your fear guard-dog is too hyperactive, don't shoot the dog! Retrain it by forming habits.
-* **Habit = When X, Then Y.** 
+* **Habit = When X, Then Y.**
 * To form habits, have a consistent "When" and simple "Then". Track your progress for ~66 days. One habit at a time.
 * Physical health affects mental health & vice versa. Hardware affects software, software affects hardware.
 * **9 Mental Health Habits for your software & hardware:** Meditation, Journaling, Sleep, Exercise, Eat, Talk with friends, Make new friends, Learning, Practicing virtues.
@@ -379,7 +384,7 @@ Strange side effect: I started *liking* my anxiety. Because now, whenever my anx
 
 I would think:
 
-1) holy s*** that's terrifying    
+1) holy s*** that's terrifying
 2) this is *incredible* writing material! Thanks, wolf!
 
 This also solved Problem #1: the reason the story felt forced was because I never gave the Anxiety character a real motivation. It was just a Skeletor-like "evil for the sake of being evil" enemy. But when I just *asked* my anxiety what its motivation was, it told me:
@@ -416,9 +421,9 @@ Yeah?
 
 More mental health tips from: [Mental Health Foundation](https://www.mentalhealth.org.uk/your-mental-health/looking-after-your-mental-health) & [National Health Service](https://www.nhs.uk/conditions/stress-anxiety-depression/improve-mental-wellbeing/)
 
-[Feeling Good](https://www.indiebound.org/book/9780380810338), the classic 1980 book that popularized CBT.    
-[Man's Search for Meaning](https://www.indiebound.org/book/9780807014295), a 1946 book written by a Holocaust survivor & psychotherapist.    
-[Meditation 101](https://www.youtube.com/watch?v=rqoxYKtEWEc), a 2-minute animation.    
+[Feeling Good](https://www.indiebound.org/book/9780380810338), the classic 1980 book that popularized CBT.
+[Man's Search for Meaning](https://www.indiebound.org/book/9780807014295), a 1946 book written by a Holocaust survivor & psychotherapist.
+[Meditation 101](https://www.youtube.com/watch?v=rqoxYKtEWEc), a 2-minute animation.
 
 ・・・
 
@@ -430,5 +435,5 @@ Huge thanks to these folks for gifting feedback on this essay: Glen Chiacchieri,
 
 Finally, thank *you* for reading! Whoever you are: Stay determined. Good luck.
 
-<3,    
+<3,
 ~ Nicky Case
