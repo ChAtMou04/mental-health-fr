@@ -20,50 +20,50 @@ Pour des conseils sur la santé mentale venant de sources officielles plutôt qu
 2. **[Les Thérapies que j'ai Essayé](#toc_1)** (histoire + théorie)
 3. **[Le But de la Douleur, la Fonction des Sentiments](#toc_2)** (théorie)
 4. **[Les Habitudes pour les Nuls](#toc_3)** (théorie + pratique)
-5. **[9 Habitudes de Santé Mentale Basées sur les Preuves](#toc_4)** (💥**la véritable partie utile**💥)
+5. **[9 Habitudes de Santé Mentale Basées sur les Preuves](#toc_4)** (💥**la partie veritablement utile**💥)
 6. **[TL;DR](#toc_18)** (résumé de tout ce qu'il y a au-dessus)
 7. **[Moi et Mon Loup](#toc_19)** (histoire)
-8. **[Ressources en Plus](#toc_20)** (pratique)
+8. **[Ressources Supplémentaires](#toc_20)** (pratique)
 
 ---
 
-# An Old Friend
+# Un Vieil Ami
 
-I remember my first panic attack. I was at the bus stop. I'd just moved to a new city, and the bus never showed up. So the little wolf in my brain said to me:
+Je me rappelle de ma première crise de panique. J'étais à l'arrêt de bus. Je venais juste de déménager dans une nouvelle ville, et le bus n'est jamais venu. Le petit loup dans mon cerveau m'a alors dit :
 
-> 🐺 We're in a new place, and we can't even figure out how busses here work?
+> 🐺 On est dans un nouvel endroit, et on n'arrive même pas à comprendre comment les bus fonctionnent ici ?
 >
-> 🐺 That means we won't be able to make friends! Or get home safely! Or buy things we need to survive!
+> 🐺 Ça veut dire qu'on ne sera pas capables de se faire de nouveaux amis ! Ni de rentrer en sécurité à la maison ! Ni d'acheter les choses dont on a besoin pour survivre !
 >
-> 🐺 Wait, why is our heart pounding? Why can't we breathe?! Aren't heart attacks in our family medical history?!?! Oh my god is this it?!?!?!
+> 🐺 Attends, pourquoi est-ce que notre cœur bat-il si fort ? Pourquoi ne pouvons-nous plus respirer ?! Les cardiaques ne sont-elles pas courantes dans notre famille ?!?! Oh mon dieu c'est la fin ?!?!?!
 >
 > 🐺 AAAAAHHHHH
 
-In 4 mental steps, a no-show bus had me 100% *convinced* I was going to die.
+En 4 étapes mentales, un bus absent m'a *convaincu* à 100% que j'allais mourir.
 
-So, that's why I never trusted the saying, "trust your gut." Or, "your feelings are valid." Imagine this scene:
+C'est pourquoi je n'ai jamais cru les dictons du genre "crois en ton instinct" ou "tes sentiments sont valides". Imagine cette scène :
 
-> Friend, to you: I feel worthless. I feel like a burden to everyone. I feel that deep down I'm an irredeemably broken, evil person.
+> Ton ami : Je me sens inutile. Je sens que je suis un fardeau pour tout le monde. Je sens qu'au fond, je suis quelqu'un de cassé, de méchant.
 
-> You, to friend: Your feelings are valid! :D
+> Toi : Tes sentiments sont valides ! :D
 
-Thus, I trusted those *other* platitudes: "Emotions are irrational." "The only thing to fear is fear itself." "Don't worry, be happy!"
+Du coup, je croyais plutôt en ces *autres* lieux communs : "Les émotions sont irrationnelles." "La seule chose à craindre est la peur elle-même." "Ne t'inquiête pas, sois heureux !"
 
-So, I looked for ways to shut my fear up.
+J'ai donc cherché des moyens de faire taire ma peur.
 
-It worked! I used random hookups and risky sex to drown out the sounds of my brain screaming. Finally, now that I paid no attention at all to my fear... I walked straight into several abusive and dangerous situations.
+Et ça a marché ! J'ai utilisé des rencontres aléatoires et des relations sexuelles risquées pour noyer les hurlements de mon cerveau. Enfin, alors que je ne payais plus du tout attention à ma peur, je me suis précipité dans plusieurs situations dangereuses et violentes.
 
-(FUN FACT: In 1994, neuroscientists found [a woman with both her amygdala destroyed](https://en.wikipedia.org/wiki/S.M._(patient)). She was the woman with no fear. No anxiety. No worries at all. That's why she's been victimized, mugged, and almost murdered several times.)
+(LE SAVAIS TU ? En 1994, des neurologues ont trouvé [une femme sans amygdales cérébrables](https://en.wikipedia.org/wiki/S.M._(patient)). C'était la femme sans peur. Sans anxiété. Sans aucun souci. C'est pour ça qu'elle a été victime d'aggressions et a été quasiment assassinée plusieurs fois.)
 
-Thankfully, my friends were afraid *for* me, when I was too afraid to let myself be afraid. (The only thing to fear is fear itself, right?) My pals helped me realize my situation *was* abusive, and got me out of it.
+Heureusement, mes amis avaient peur *à ma place*, quand je craignais trop d'avoir peur moi-même. (La seule chose à craindre est la peur elle même, non ?) Mes amis m'ont aidé à me rendre compte que ma situation *était* violente, et m'en ont sorti.
 
-A few months later, I heard the familiar voice of an old friend:
+Quelques mois plus tard, j'ai entendu la voix familière d'un vieil ami :
 
 > 🐺 AAAAAHHHHH
 
 ---
 
-# Therapies I Tried
+# Les Thérapies que j'ai Essayé
 
 If this was a movie, that should've been the point I realized the value of fear.
 
@@ -93,7 +93,7 @@ Fear is a *friend.*
 
 ---
 
-# The Purpose of Pain, The Function of Feelings
+# Le But de la Douleur, la Fonction des Sentiments
 
 "Fear is a friend"?! That sounds stupid – even *morally offensive* – to someone with near-daily panic attacks. So why am *I*, someone who knows this pain, saying something like *that?*
 
@@ -167,7 +167,7 @@ So... how *do* you train your dog?
 
 ---
 
-# Habits 101
+# Les Habitudes pour les Nuls
 
 To train a dog, first: don't beat the dog. Don't fear fear itself.
 
@@ -207,7 +207,7 @@ That's a good concern! I'll add a link at the top to let readers skip to the Men
 
 ---
 
-# 9 Evidence-Based Mental Health Habits
+# 9 Habitudes de Santé Mentale Basées sur les Preuves
 
 This list is to help you start improving your mental health *today.* Nine sounds overwhelming, so just pick *one* habit from the list below, make a small, simple When→Then plan, and track your progress for 66 days or until it becomes automatic. Then come back, pick another habit, repeat.
 
@@ -366,7 +366,7 @@ Good point! Let's refresh the reader's memory with a summary:
 
 ---
 
-# Me & My Wolf
+# Moi et Mon Loup
 
 If this was a movie, I should've learnt to befriend my wolf in a shocking moment of catharsis, with explosions in the background. That would have made a good story.
 
@@ -417,7 +417,7 @@ Yeah?
 
 ---
 
-# Extra Resources:
+# Ressources Supplémentaires :
 
 More mental health tips from: [Mental Health Foundation](https://www.mentalhealth.org.uk/your-mental-health/looking-after-your-mental-health) & [National Health Service](https://www.nhs.uk/conditions/stress-anxiety-depression/improve-mental-wellbeing/)
 
